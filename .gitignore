@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # Datasets
-.csv
+*.csv
