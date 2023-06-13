@@ -1,7 +1,7 @@
 # TitanicMachineLearn
 
 
-Source of the exersice:<br>
+Source of the exercise:<br>
 https://www.kaggle.com/competitions/titanic/overview
 
 Data Set:<br>
